@@ -51,7 +51,7 @@ Assuming the role of an agriculture officer:
   - Yield heatmaps
 
 ## 🛠 Technologies Used
-- Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+- Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Jupyter Notebook
 - GeoPandas
 - CSV/ZIP data handling
