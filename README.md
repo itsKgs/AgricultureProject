@@ -5,9 +5,8 @@ This project involves an in-depth analysis of crop production and insurance data
 
 ## 📁 Project Structure
 
-- `Crop.zip`: Contains datasets on crop production across states and districts.
+- `AgricultureCrop.zip`: Contains datasets on crop production across states and districts.
 - `CropInsurance.zip`: Contains data related to crop insurance schemes such as PMFBY and WBCIS.
-- `PMFBYStatistics.csv`: Supplementary dataset with statistics related to crop insurance participation.
 
 ## 📌 Objectives
 
